@@ -1,4 +1,4 @@
-# 🪪 Cartão de Perfil
+# Cartão de Perfil
 
 Cartão de perfil pessoal desenvolvido com HTML e CSS puro.
 
